@@ -113,13 +113,13 @@ Sales_Prediction_Model/
 
 ## Home Page
 
-![Home Page](screenshots/homepage.png)
+![Home Page](Screenshots/homepage.png)
 
 ---
 
 ## Prediction Result
 
-![Prediction](screenshots/prediction.png)
+![Prediction](Screenshots/prediction.png)
 
 ---
 
@@ -127,31 +127,31 @@ Sales_Prediction_Model/
 
 ## Linear Regression
 
-![Linear Regression](screenshots/1.png)
+![Linear Regression](Screenshots/1.png)
 
 ---
 
 ## Decision Tree Regression
 
-![Decision Tree](screenshots/2.png)
+![Decision Tree](Screenshots/2.png)
 
 ---
 
 ## Random Forest Regression
 
-![Random Forest](screenshots/3.png)
+![Random Forest](Screenshots/3.png)
 
 ---
 
 ## Model Comparison
 
-![Model Comparison](screenshots/modelprediction.png)
+![Model Comparison](Screenshots/modelprediction.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](screenshots/featureimportancegraph.png)
+![Feature Importance](Screenshots/featureimportancegraph.png)
 
 ---
 
@@ -215,11 +215,3 @@ The project showcases practical skills in:
 # 👨‍💻 Developed By
 
 **Sarthak Vats**
-
-**Data Science Intern**
-
-**InCode Vision**
-
----
-
-⭐ If you found this project useful, consider giving it a star.
