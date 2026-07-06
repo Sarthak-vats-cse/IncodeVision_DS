@@ -91,6 +91,6 @@ output/netflix_titles_cleaned.csv
 
 ---
 
-## Author
+## Developed By
 
 **Sarthak Vats**
