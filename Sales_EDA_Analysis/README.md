@@ -159,3 +159,7 @@ EDA.ipynb
 The project successfully performs Exploratory Data Analysis on the Global Superstore dataset and uncovers important business trends through statistical analysis and visualizations.
 
 The insights obtained from this analysis can support business decision-making and provide a strong foundation for future predictive analytics and machine learning projects.
+
+## Developed By
+
+**Sarthak Vats**
